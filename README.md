@@ -16,12 +16,12 @@ Sistema desenvolvido em c++ para gerenciamento de uma loja de roupas e itens div
 ## Como Usar
 1. Clone o repositório:
 ```bash
-git clone [url-do-repositorio]
+git clone https://github.com/INF112-Programacao2/20242-team-11
 ```
 
 2. Navegue até o diretório do projeto:
 ```bash
-cd [nome-do-diretorio]
+cd nome-do-diretorio
 ```
 
 3. Entre na pasta src:
