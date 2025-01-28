@@ -1,7 +1,7 @@
 # SISTEMA DE GERENCIAMENTO COMERCIAL
 
 ## Descrição
-[Breve descrição do projeto e seu propósito principal]
+Sistema desenvolvido em c++ para gerenciamento de uma loja de roupas e itens diversos, com controle de estoque,clientes e vendas.
 
 ## Funcionalidades Principais
 - Gestão de Clientes
