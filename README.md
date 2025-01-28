@@ -12,8 +12,9 @@ Sistema desenvolvido em c++ para gerenciamento de uma loja de roupas e itens div
 ## Tecnologias Utilizadas
 - C++
 - SQLite3
+- Padrão de Projeto MVC (Model-View-Controller)
 
-## Como Usar
+## Como Usar: (É necessário estar utilizando um sistema operacional linux)
 1. Clone o repositório:
 ```bash
 git clone https://github.com/INF112-Programacao2/20242-team-11
