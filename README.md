@@ -31,10 +31,12 @@ cd src
 ```
 
 4. Execute o arquivo a.out ou execute o makefile:
+
 4.1. Executando o arquivo a.out
 ```bash
 ./a.out
 ```
+
 4.2 Executando o makefile:
 Execute o codigo abaixo
 ```bash
