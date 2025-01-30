@@ -30,10 +30,17 @@ cd nome-do-diretorio
 cd src
 ```
 
-4. Execute o programa:
+4. Execute o arquivo a.out ou execute o makefile:
+4.1. Executando o arquivo a.out
 ```bash
 ./a.out
 ```
+4.2 Executando o makefile:
+Execute o codigo abaixo
+```bash
+makefile all
+```
+Caso seja pedido, coloque a senha do seu sistema operacional e aguarde
 
 ## Integrantes
 - Hugo Daniel Espíndola de Oliveira
